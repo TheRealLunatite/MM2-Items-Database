@@ -17,4 +17,4 @@ Feel free to make a pull request if an item is missing from the repository files
 }
 ```
 
-Difference between ``DisplayName`` and ``Name``. ``Name`` is a unique item name while ``DisplayName`` is not. 
+Difference between ``DisplayName`` and ``Name``. ``Name`` is a unique item name while ``DisplayName`` is not. ``Name`` will always be used to distinguish items from their counterparts. 
